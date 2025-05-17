@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="639.5"
+   height="24"
+   viewBox="0 0 639.5 24"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="strip.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3638924"
+     inkscape:cx="308.67537"
+     inkscape:cy="70.386782"
+     inkscape:window-width="1408"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <path
+     d="m 615.5,24 h -18 l 24,-24 h 18 z"
+     fill="currentColor"
+     id="path1"
+     style="fill:#e10600;fill-opacity:1"
+     sodipodi:insensitive="true" />
+  <path
+     d="M 0,24 H 594 L 606,12 H 0 Z"
+     style="fill:#e10600"
+     id="path10" />
+  <path
+     d="M 0,10.5 H 607.5 L 618,0 H 0 Z"
+     style="fill:#e10600"
+     id="path12" />
+</svg>
