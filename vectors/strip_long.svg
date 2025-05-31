@@ -7,7 +7,7 @@
    class="absolute top-0 right-0 text-brand-black"
    version="1.1"
    id="svg3"
-   sodipodi:docname="strip.svg"
+   sodipodi:docname="strip_long.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.9733631"
-     inkscape:cx="4581.012"
-     inkscape:cy="48.647915"
+     inkscape:cx="4581.0119"
+     inkscape:cy="48.647914"
      inkscape:window-width="1408"
      inkscape:window-height="997"
      inkscape:window-x="1366"
@@ -37,15 +37,15 @@
      d="M4591.5,24h-18l24-24h18l-24,24Z"
      fill="currentColor"
      id="path1"
-     style="fill:#ff1e00;fill-opacity:1" />
+     style="fill:#090000;fill-opacity:1" />
   <path
      d="M4570,24H0v-12h4582l-12,12Z"
      fill="currentColor"
      id="path2"
-     style="fill:#ff1e00;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1" />
   <path
      d="M4594.1,0H0v10.5h4583.5l10.5-10.5Z"
      fill="currentColor"
      id="path3"
-     style="fill:#ff1e00;fill-opacity:1" />
+     style="fill:#040000;fill-opacity:1" />
 </svg>
