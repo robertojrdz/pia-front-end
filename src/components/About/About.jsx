@@ -48,7 +48,7 @@ const About = () => {
             </div>
 
             {/* Content Sections */}
-            <div className="max-w-7xl m-[50px]">
+            <div className=" m-[50px]">
                 <InfoCard
                     title="Presentation"
                     description="Established in 2012, the FIA World Endurance Championship (FIA WEC) is the top international series for long-distance racing, with events lasting 6 to 24 hours. Featuring 8 manufacturers and global races—including the legendary 24 Hours of Le Mans—the WEC blends cutting-edge technology, design freedom, and fierce competition to deliver thrilling, unpredictable motorsport action worldwide."

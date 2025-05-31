@@ -42,7 +42,7 @@ export default function Header() {
 
     return (
         <header className="bg-red-600">
-            <nav aria-label="Global" className="flex max-w-7xl items-center justify-between py-4 mx-[50px] duration-300">
+            <nav aria-label="Global" className="flex items-center justify-between py-4 mx-[50px] duration-300">
                 <div className="flex lg:flex-1">
                     <NavLink to="/" onClick={() => (handleClick("/"))} className="-m-1.5 p-1.5">
                         <span className="sr-only">FIA WEC</span>
