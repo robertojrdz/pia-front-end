@@ -2,15 +2,38 @@
 @import "tailwindcss";
 
 @font-face {
-    font-family: "Formula 1";
-    src: url("assets/Formula1-Regular.otf");
-    font-weight: normal;
+    font-family: 'Formula1';
+    src: url('assets/Formula1-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
 }
 
 @font-face {
-    font-family: "Formula 1";
-    src: url("assets/Formula1.ttf");
-    font-weight: bold;
+    font-family: 'Formula1';
+    src: url('assets/Formula1-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Formula1';
+    src: url('assets/Formula1-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Formula1';
+    src: url('assets/Formula1-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Formula1 Wide';
+    src: url('assets/Formula1-Wide.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
 }
 
 #root {
@@ -18,14 +41,38 @@
 }
 
 .formula-1 {
-    font-family: "Formula 1", sans-serif;
+    font-family: "Formula1", sans-serif;
+    font-weight: 400;
     font-style: normal;
-    font-weight: normal;
+}
+
+.formula-1-italic {
+    font-family: "Formula1", sans-serif;
+    font-weight: 400;
+    font-style: italic;
 }
 
 .formula-1-bold {
-    font-family: "Formula 1", sans-serif;
-    font-weight: bold;
+    font-family: "Formula1", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.formula-1-bold-italic {
+    font-family: "Formula1", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.formula-1-black {
+    font-family: "Formula1", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.formula-1-wide {
+    font-family: "Formula1 Wide", sans-serif;
+    font-weight: 400;
     font-style: normal;
 }
 
